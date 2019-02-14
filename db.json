@@ -1,20 +1,20 @@
 {
-  "warm": {
-    "state": "warm",
-    "data": {
-      "temp": 30
+    "warm": {
+        "state": "warm",
+        "data": {
+            "temp": 30
+        }
+    },
+    "koud": {
+        "state": "koud",
+        "data": {
+            "temp": 3
+        }
+    },
+    "lauw": {
+        "state": "lauw",
+        "data": {
+            "temp": 14
+        }
     }
-  },
-  "koud": {
-    "state": "koud",
-    "data": {
-      "temp": 3
-    }
-  },  
-  "lauw": {
-    "state": "lauw",
-    "data": {
-      "temp": 14
-    }
-  }
 }
